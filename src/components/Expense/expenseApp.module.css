@@ -1,0 +1,7 @@
+.containerExpense {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  width: 350px;
+  border-radius: 8px;
+  padding: 18px 12px;
+}

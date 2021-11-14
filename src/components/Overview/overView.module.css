@@ -1,0 +1,40 @@
+.containerBalnce {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.containerIncome {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.expenseBox {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 110px;
+}
+.expenseColor {
+  color: red;
+  margin-top: 2px;
+}
+.incomeColor {
+  color: rgb(27, 185, 21);
+  margin-top: 2px;
+}
+
+.btn {
+  background-color: aliceblue;
+  padding: 5px 10px;
+  color: blueviolet;
+  border-radius: 8px;
+  border: 1px solid blueviolet;
+}
+.cncle {
+  border: 1px solid red;
+  color: red;
+  background-color: #fff;
+}
